@@ -1,4 +1,3 @@
-console.log(window.innerWidth);
 
 const productList = [
   {
@@ -139,7 +138,7 @@ const productList = [
   {
     id: 16,
     name: "Noise Cancelling Headphones",
-    image: "./assets/images/noiCe headphone.jpeg",
+    image: "./assets/images/noice headphone.jpeg",
     price: 3299,
     rating: 5,
     category: "Audio",
